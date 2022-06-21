@@ -1,0 +1,2 @@
+# hello.world
+THIS IS ONE OF THE FIRST PROGRAMS OF A 12y old
